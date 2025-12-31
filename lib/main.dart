@@ -1646,7 +1646,7 @@ class _HomeScreenState extends State<HomeScreen>
                       setState(() => _nightMode = value);
                       _savePrefs();
                     },
-                    activeColor: const Color(0xFFFF6B9D),
+                    activeThumbColor: const Color(0xFFFF6B9D),
                   ),
                   SwitchListTile(
                     title: Text(
@@ -1668,7 +1668,7 @@ class _HomeScreenState extends State<HomeScreen>
                       setState(() => _quietMode = value);
                       _savePrefs();
                     },
-                    activeColor: const Color(0xFFFF6B9D),
+                    activeThumbColor: const Color(0xFFFF6B9D),
                   ),
                 ],
               ),
