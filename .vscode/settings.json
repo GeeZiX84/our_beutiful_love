@@ -1,3 +1,4 @@
 {
-     "cmake.sourceDirectory": "D:/GitHub/our_beutiful_love/windows"
+     "cmake.sourceDirectory": "D:/GitHub/our_beutiful_love/windows",
+     "java.configuration.updateBuildConfiguration": "interactive"
 }
